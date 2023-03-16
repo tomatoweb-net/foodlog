@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "twitter", "~> 7.0"
+
+gem "sassc", "~> 2.4"
